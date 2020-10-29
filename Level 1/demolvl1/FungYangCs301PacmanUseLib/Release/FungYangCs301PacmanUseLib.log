@@ -1,0 +1,33 @@
+﻿  fungYangCs301SimMain.cpp
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(479,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(499,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(506,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(507,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(555,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(556,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(576,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(614,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(616,37): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(641,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(665,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(780,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(831,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(853,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jackw\Downloads\demolvl1\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(854,39): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  109 of 1255 functions ( 8.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    48 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+FungYangCs301PacmenRobotSimGameLib.lib(gameManager.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'FungYangCs301PacmenRobotSimGameLib.lib(gameManager.obj)' or at 'C:\Users\jackw\Downloads\demolvl1\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+FungYangCs301PacmenRobotSimGameLib.lib(mainFungGLAppEngin.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'FungYangCs301PacmenRobotSimGameLib.lib(mainFungGLAppEngin.obj)' or at 'C:\Users\jackw\Downloads\demolvl1\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+FungYangCs301PacmenRobotSimGameLib.lib(Geometry.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'FungYangCs301PacmenRobotSimGameLib.lib(Geometry.obj)' or at 'C:\Users\jackw\Downloads\demolvl1\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+FungYangCs301PacmenRobotSimGameLib.lib(my_GL_Draw_Funcs.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'FungYangCs301PacmenRobotSimGameLib.lib(my_GL_Draw_Funcs.obj)' or at 'C:\Users\jackw\Downloads\demolvl1\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+FungYangCs301PacmenRobotSimGameLib.lib(mazeGen.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'FungYangCs301PacmenRobotSimGameLib.lib(mazeGen.obj)' or at 'C:\Users\jackw\Downloads\demolvl1\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+FungYangCs301PacmenRobotSimGameLib.lib(highPerformanceTimer.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'FungYangCs301PacmenRobotSimGameLib.lib(highPerformanceTimer.obj)' or at 'C:\Users\jackw\Downloads\demolvl1\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+FungYangCs301PacmenRobotSimGameLib.lib(AStarManager.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'FungYangCs301PacmenRobotSimGameLib.lib(AStarManager.obj)' or at 'C:\Users\jackw\Downloads\demolvl1\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+FungYangCs301PacmenRobotSimGameLib.lib(texture.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'FungYangCs301PacmenRobotSimGameLib.lib(texture.obj)' or at 'C:\Users\jackw\Downloads\demolvl1\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+FungYangCs301PacmenRobotSimGameLib.lib(Lighting.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'FungYangCs301PacmenRobotSimGameLib.lib(Lighting.obj)' or at 'C:\Users\jackw\Downloads\demolvl1\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+FungYangCs301PacmenRobotSimGameLib.lib(Utilities.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'FungYangCs301PacmenRobotSimGameLib.lib(Utilities.obj)' or at 'C:\Users\jackw\Downloads\demolvl1\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+FungYangCs301PacmenRobotSimGameLib.lib(PathFinder.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'FungYangCs301PacmenRobotSimGameLib.lib(PathFinder.obj)' or at 'C:\Users\jackw\Downloads\demolvl1\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+  FungYangCs301PacmanUseLib.vcxproj -> C:\Users\jackw\Downloads\demolvl1\Release\FungYangCs301PacmanUseLib.exe
